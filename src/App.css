@@ -1,0 +1,12 @@
+header{
+    height: 100px;
+    border: 1px dashed rebeccapurple;
+}
+Main{
+    height: 800px;
+    border: 1px dashed purple;
+}
+footer{
+    height: 100px;
+    border: 1px dashed palevioletred;
+}
